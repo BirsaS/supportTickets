@@ -1,1 +1,7 @@
 
+{
+    "tickets": [
+        { "id": 1, "subject": "Napačen račun za Oktober 2019", "message": "Za mesec Oktober sem dobil napačen račun. Prosim, če mi pošljete nov popravljen račun." },
+        { "id": 2, "subject": "", "message": "Pošiljamo vam nov račun za mesec Oktober.<br/>Lp, Agent" }
+    ]
+}
